@@ -20,5 +20,6 @@ int main(void)
     scores[i] = get_int("Score %i: ", i);
    
   }
-   printf("Average: %f\n",average(n,scores));
+  // show only one digit
+   printf("Average: %.1f\n",average(n,scores));
 }
