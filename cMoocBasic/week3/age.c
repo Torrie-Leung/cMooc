@@ -9,7 +9,7 @@ int main()
   if(age < MINIOR){
     printf("年轻是美好的,加油！\n");
   }else{
-    printf("年龄决定了你的精神世界，好好珍惜吧。\n");
+    printf("岁月记录了经验与成长，加油！\n");
   }
-  
+  printf("年龄决定了你的精神世界，好好珍惜吧。\n");
 }

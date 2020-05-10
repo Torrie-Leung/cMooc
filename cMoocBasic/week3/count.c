@@ -15,4 +15,5 @@ int main()
   }else{
     printf("请补足：%d元\n", price - bill);
   }
+  return 0;
 }
